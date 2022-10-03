@@ -38,7 +38,7 @@ class _HomePageState extends State<HomePage> {
     return Container(
       height: 60,
       decoration: BoxDecoration(
-        color: Color.fromARGB(255, 67, 79, 234),
+        color: Color.fromARGB(255, 19, 255, 11),
         borderRadius: const BorderRadius.only(
           topLeft: Radius.circular(0),
           topRight: Radius.circular(0),
